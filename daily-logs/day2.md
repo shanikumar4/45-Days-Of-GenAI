@@ -1,4 +1,4 @@
-# Day 1 — Neural Network Intuition: Neurons, Layers, Weights, Activations + NumPy, Pandas & Matplotlib
+# Day 2 — Neural Network Intuition: Neurons, Layers, Weights, Activations + NumPy, Pandas & Matplotlib
 
 > **#45DaysOfGenAI** • [LinkedIn](https://www.linkedin.com/in/shani-kumar-041177329/) • [GitHub](https://github.com/shanikumar4)
 
