@@ -1,4 +1,4 @@
-# Day 2 — Loss Functions, Gradient Descent, Backpropagation, Overfitting, Underfitting & Train/Val/Test Split
+# Day 3 — Loss Functions, Gradient Descent, Backpropagation, Overfitting, Underfitting & Train/Val/Test Split
 
 > **#45DaysOfGenAI** • [LinkedIn](https://www.linkedin.com/in/shani-kumar-041177329/) • [GitHub](https://github.com/shanikumar4)
 
