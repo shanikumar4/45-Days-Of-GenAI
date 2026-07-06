@@ -145,6 +145,6 @@ A **system prompt** defines the model's behavior and rules, while a **user promp
 Today's learning showed me that **prompt engineering is much more than simply asking questions**. Writing clear prompts, providing the right context, and selecting the appropriate prompting technique can significantly improve the quality of AI-generated responses. Understanding prompt injection, hallucinations, and the difference between system and user prompts is also essential for building safe, reliable, and effective AI applications.
 
 
-## Refernce 
+## Reference  
 
 [Medium Blog](https://rkniyer999.medium.com/prompt-engineering-explained-from-basic-to-advanced-techniques-2995198eebb6?sharedUserId=shani2405sk) 
