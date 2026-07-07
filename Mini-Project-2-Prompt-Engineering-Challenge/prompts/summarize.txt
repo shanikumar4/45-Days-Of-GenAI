@@ -1,0 +1,5 @@
+Summarize the article into three bullet points.
+
+Article:
+
+Artificial Intelligence is transforming healthcare by...

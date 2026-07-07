@@ -1,0 +1,11 @@
+Classify the sentiment of the review.
+
+Return ONLY one word.
+
+Positive
+Negative
+Neutral
+
+Review:
+
+"I absolutely loved this phone."

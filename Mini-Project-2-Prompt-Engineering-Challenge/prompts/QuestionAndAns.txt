@@ -1,0 +1,11 @@
+Answer ONLY using the passage.
+
+Passage
+
+The Internet has transformed the way people communicate, learn, and work. It allows users to access information instantly, connect with others around the world, and use online services such as banking, shopping, and education. However, excessive internet use can lead to reduced productivity and health issues if not managed properly.
+
+Question
+
+What are two benefits of the Internet?
+
+Answer

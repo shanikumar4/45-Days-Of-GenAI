@@ -1,0 +1,11 @@
+Extract
+
+Person
+
+Organization
+
+Location
+
+Text
+
+Satya Nadella visited Bengaluru to meet Microsoft engineers.

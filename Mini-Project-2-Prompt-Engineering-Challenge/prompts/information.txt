@@ -1,0 +1,23 @@
+Extract the following fields from the invoice.
+
+Fields:
+- Name
+- Invoice Number
+- Date
+- Amount
+
+Return JSON only.
+
+Invoice
+
+ABC Technologies Pvt. Ltd.
+Invoice Number: INV-2026-1045
+Invoice Date: July 7, 2026
+
+Bill To:
+Shani Kumar
+
+Description:
+Laptop Accessories
+
+Total Amount: ₹12,450.00
