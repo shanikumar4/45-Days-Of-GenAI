@@ -49,7 +49,7 @@ Each conversation consists of different message roles that help define the inter
 
 ---
 
-## Streaming Responses
+## Streaming Responses 
 
 Streaming allows the model to generate responses token by token instead of waiting for the complete output.
 
