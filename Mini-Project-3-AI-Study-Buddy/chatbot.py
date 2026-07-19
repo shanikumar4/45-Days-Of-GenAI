@@ -9,7 +9,11 @@ from openai import (
 )
 
 import time
+from rich.console import Console
+from rich.markdown import Markdown
+from rich.live import Live
 
+console = Console()
 
 def chat():
 
@@ -21,21 +25,20 @@ def chat():
             model=MODEL,
             messages=get_messages(),
             temperature=0.3,
-            max_tokens=300,
+            max_tokens=800,
             stream=True,
         )
 
         answer = ""
 
         print("\n🤖 AI:\n")
-
-        for chunk in stream:
-
-            token = chunk.choices[0].delta.content
-
-            if token:
-                print(token, end="", flush=True)
-                answer += token
+        
+        with Live(Markdown(""), console=console, refresh_per_second=12, transient=False) as live:
+            for chunk in stream:
+                token = chunk.choices[0].delta.content
+                if token:
+                    answer += token
+                    live.update(Markdown(answer))
 
         end = time.time()
 
