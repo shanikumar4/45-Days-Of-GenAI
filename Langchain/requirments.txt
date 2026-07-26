@@ -6,3 +6,5 @@ langchain-groq
 python-dotenv
 langchain-google-genai
 ipykernel
+langchain-google-vertexai
+langchain-tavily
