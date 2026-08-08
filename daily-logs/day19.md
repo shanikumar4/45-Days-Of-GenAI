@@ -16,7 +16,7 @@ Unlike traditional databases that rely on exact keyword matching, vector databas
 
 Traditional databases are great for exact lookups but cannot understand semantic meaning.
 
-Example:
+Example
 
 ```text
 "Apple phone"
